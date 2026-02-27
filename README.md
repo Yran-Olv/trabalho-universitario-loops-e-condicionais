@@ -1,4 +1,4 @@
-<img src="https://novo.uniaraxa.edu.br/wp-content/uploads/2025/08/marca_oficial_uniaraxa_neg.png" alt="Centro Universitário do Planalto de Araxá" width="300" />
+<img src="https://novo.uniaraxa.edu.br/wp-content/uploads/2025/08/marca_oficial_uniaraxa_neg.png" alt="Centro Universitário do Planalto de Araxá" width="125" />
 
 ### Centro Universitário do Planalto de Araxá  
 ### Curso: Sistema de Informoção
