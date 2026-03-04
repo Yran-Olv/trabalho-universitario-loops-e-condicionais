@@ -8,7 +8,7 @@
     <td valign="middle">
       <strong>Centro Universitário do Planalto de Araxá</strong><br/>
       Curso: Sistemas de Informação<br/>
-      Disciplina: Códigos de Alta Performance
+      Disciplina: Algoritmos e Programação Avançada
     </td>
   </tr>
 </table>
