@@ -19,7 +19,7 @@
 |---|---|
 | **Trabalho** | LOOP VARIAVEIS CONDICIONAIS |
 | **Professor** | Esteban Rivas |
-| **Aluno(a)** | Yran Augusto |
+| **Aluno** | Yran Augusto |
 | **Data** | 27/02/2026 |
 
 ---
